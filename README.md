@@ -16,13 +16,13 @@
 
 ###
 # Programming languages
-[![Programming](https://skillicons.dev/icons?i=js,html,css,angular,python,lua,cpp,c,nodejs,typescript,java,electron,arduino,jquery,php,express,robloxstudio)](https://skillicons.dev)
+[![Programming](https://skillicons.dev/icons?i=js,html,css,python,lua,cpp,c,nodejs,typescript,java,jquery,php,express)](https://skillicons.dev)
 
 # Operating Systems
 [![Operating Systems](https://skillicons.dev/icons?i=linux,arch,ubuntu,windows,kali)](https://skillicons.dev)
 
 # Editors
-[![Editors](https://skillicons.dev/icons?i=androidstudio,eclipse,vscode,sublime,visualstudio,vim)](https://skillicons.dev)
+[![Editors](https://skillicons.dev/icons?i=androidstudio,eclipse,vscode,sublime,visualstudio,vim,robloxstudio,arduino)](https://skillicons.dev)
 
 # DataBases
 [![DataBases](https://skillicons.dev/icons?i=mysql,firebase,mongodb)](https://skillicons.dev)
