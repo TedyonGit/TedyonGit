@@ -16,7 +16,7 @@
 
 ###
 # Programming languages
-[![Programming](https://skillicons.dev/icons?i=js,html,css,python,lua,cpp,c,nodejs,typescript,java,jquery,php,express)](https://skillicons.dev)
+[![Programming](https://skillicons.dev/icons?i=js,html,css,python,lua,cpp,c,cs,nodejs,typescript,java,jquery,php,express)](https://skillicons.dev)
 
 # Operating Systems
 [![Operating Systems](https://skillicons.dev/icons?i=linux,arch,ubuntu,windows,kali)](https://skillicons.dev)
