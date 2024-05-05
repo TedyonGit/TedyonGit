@@ -16,7 +16,7 @@
 
 ###
 # Programming languages
-[![Programming](https://skillicons.dev/icons?i=js,html,css,python,lua,cpp,c,cs,nodejs,typescript,java,jquery,php,express)](https://skillicons.dev)
+[![Programming](https://skillicons.dev/icons?i=js,html,css,python,lua,cpp,c,cs,nodejs,typescript,java,jquery,php)](https://skillicons.dev)
 
 # Operating Systems
 [![Operating Systems](https://skillicons.dev/icons?i=linux,arch,ubuntu,windows,kali)](https://skillicons.dev)
@@ -31,7 +31,7 @@
 [![Frameworks](https://skillicons.dev/icons?i=tailwind,angular,electron,react)](https://skillicons.dev)
 
 # Backend programs
-[![Backend](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=postman,express)](https://skillicons.dev)
 
 # Others
 [![Others](https://skillicons.dev/icons?i=ae,pr,ps)](https://skillicons.dev)
