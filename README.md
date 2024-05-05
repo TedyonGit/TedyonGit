@@ -34,4 +34,4 @@
 [![Backend](https://skillicons.dev/icons?i=postman,express)](https://skillicons.dev)
 
 # Others
-[![Others](https://skillicons.dev/icons?i=ae,pr,ps)](https://skillicons.dev)
+[![Others](https://skillicons.dev/icons?i=ae,pr,ps,discordjs,bots)](https://skillicons.dev)
